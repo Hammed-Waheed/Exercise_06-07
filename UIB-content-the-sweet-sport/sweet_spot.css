@@ -1,0 +1,35 @@
+h1 {
+color: aliceblue;
+background-color: rgba(243, 118, 139, 0.808);
+}
+
+.pink {
+    color: violet;
+    background-color: lightgray;
+}
+
+.red {
+    background-color: rgb(246, 141, 223);
+}
+
+.blue {
+    background-color: yellow;
+}
+
+.dark {
+    list-style-type: none;
+}
+
+#violet {
+    background-color: aqua;
+}
+
+.puppy {
+    background-color: aqua;
+    
+}
+
+.circle {
+    list-style-type: circle;
+}
+
